@@ -2,7 +2,7 @@
 From assignment3 directory:
 javac -cp .:/usr/share/java/junit.jar testingTest.java Matrix6x6RC.java Matrix6x6CR.java Matrix6x6Flat.java MatrixArrayRC.java MatrixArrayCR.java MatrixArrayFlat.java NotSquareMatrixException.java 
 
-From A3Bonus directory:
+From JavaGenerator directory:
 java -cp .:/usr/share/java/junit.jar org.junit.runner.JUnitCore assignment3.testingTest
 */
 
